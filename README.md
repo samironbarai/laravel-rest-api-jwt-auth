@@ -1,4 +1,4 @@
-# Laravel RESTFul API with JSON Web Token (JWS)
+# Laravel RESTFul API with JSON Web Token (JWT)
 
 # Installation
 1. Clone this repo

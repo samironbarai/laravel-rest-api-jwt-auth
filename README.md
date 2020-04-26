@@ -18,7 +18,6 @@ make a copy of .env.example and rename to .env
 $ php artisan key:generate
 put database credentials in .env file
 $ php artisan jwt:secret
-$ php artisan vendor:publish --provider="Tymon\JWTAuth\Providers\LaravelServiceProvider"
 ```
 
 4. Migrate and insert records

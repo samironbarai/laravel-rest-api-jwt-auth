@@ -27,3 +27,7 @@ $ php artisan tinker
 $ factory(App\User::class, 10)->create()
 $ factory(App\Task::class, 50)->create()
 ```
+
+Tutorial youtube link:
+
+[![Laravel SMS with Nexmo](https://img.youtube.com/vi/jF9wdF0sViI/0.jpg)](https://www.youtube.com/watch?v=jF9wdF0sViI) 

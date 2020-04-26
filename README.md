@@ -33,4 +33,4 @@ Click on the image bellow to see YouTube video.
 [![Laravel SMS with Nexmo](https://img.youtube.com/vi/jF9wdF0sViI/0.jpg)](https://www.youtube.com/watch?v=jF9wdF0sViI) 
 
 Please visit my website for written tutorial.
-[![Laravel SMS with Nexmo]](https://samironbarai.com/tutorials/laravel-7-restful-api-with-json-web-token-jwt) 
+[samironbarai.com](https://samironbarai.com/tutorials/laravel-7-restful-api-with-json-web-token-jwt) 
